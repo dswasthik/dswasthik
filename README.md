@@ -10,11 +10,6 @@ Skills
 - **Specialization:** Desktop Development
 - **Interests:** Artificial Intelligence, Web Development
 
-Projects
-- **Desktop Application:** Developed a robust inventory management system using C# and SQL for efficient tracking and management of inventory.
-- **AI Project:** Implemented a machine learning model in Python for sentiment analysis on social media data.
-- **Web Development:** Contributed to the development of a responsive e-commerce website using JavaScript and .NET Framework.
-
 Contact Me
   LinkedIn:[https://www.linkedin.com/in/swasthik](https://www.linkedin.com/in/swasthik-d)
   Email:[swasthikdml27@gmail.com](mailto:swasthikdml27@gmail.com)
