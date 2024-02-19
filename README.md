@@ -17,7 +17,7 @@ Projects
 
 Contact Me
   LinkedIn:[https://www.linkedin.com/in/swasthik](https://www.linkedin.com/in/swasthik-d)
-  Email:[swasthik@example.com](mailto:swasthikdml27@gmail.com)
+  Email:[swasthikdml27@gmail.com](mailto:swasthikdml27@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on a project or discuss anything related to software development!
 <!---
