@@ -1,4 +1,4 @@
-# Swasthik - Software Engineer
+# Swasthik D - Software Engineer
 
 ## About Me
 🚀 Passionate Software Engineer | Innovator in Desktop Application Development
