@@ -25,7 +25,7 @@ Skills
 - **Frameworks:** .NET Framework
 - **Database Management:** SQLite
 - **Specialization:** Desktop Development, Web development
-- **Other:** ASP.NET, Angular
+- **Other:** ASP.NET, Angular, WPF, Telerik Winforms
 - **Interests:** Artificial Intelligence, Web Development, Desktop Development
 
 Contact Me
