@@ -21,11 +21,11 @@ Keen on expanding my knowledge in areas such as machine learning, cloud computin
 Aspiring to lead projects that make a significant impact on user experiences and drive technological advancements.
 
 Skills
-- **Programming Languages:** C#, C++, Python
+- **Programming Languages:** C#, C++, Python, Javascript
 - **Frameworks:** .NET Framework
 - **Database Management:** SQLite
 - **Specialization:** Desktop Development, Web development
-- **Other:** ASP.NET, Angular, WPF, Telerik Winforms
+- **Other:** ASP.NET, WPF, Telerik Winforms
 - **Interests:** Artificial Intelligence, Web Development, Desktop Development
 
 Contact Me
