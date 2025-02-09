@@ -1,14 +1,32 @@
 # Swasthik - Software Engineer
 
 ## About Me
-Hello! I'm Swasthik, a passionate software engineer with a keen interest in desktop development, AI, and web development. I thrive on tackling complex problems and creating efficient solutions using a variety of programming languages and technologies.
+🚀 Passionate Software Engineer | Innovator in Desktop Application Development
+Since November 2021, I've been dedicated to driving technological advancements and crafting innovative software solutions. My expertise lies in desktop application development, where I specialize in debugging issues and delivering robust, efficient solutions.
+
+👨‍💻 Professional Highlights:
+Enhanced user experiences by swiftly resolving bugs and optimizing application performance.
+
+Honored with the Shining Star Award in Q2 2023 for my impactful contributions to the development of OpenRoads SignCAD.
+
+Demonstrated strong problem-solving skills and a keen eye for detail, ensuring high-quality deliverables.
+
+Actively collaborated with cross-functional teams to design and implement features that meet user needs and business goals.
+
+🌟 Future Aspirations:
+Continuously exploring new technologies and methodologies to push boundaries and deliver top-notch software solutions. Always eager to learn, innovate, and contribute to the tech community.
+
+Keen on expanding my knowledge in areas such as machine learning, cloud computing, and software architecture.
+
+Aspiring to lead projects that make a significant impact on user experiences and drive technological advancements.
 
 Skills
-- **Programming Languages:** C++, C#, Python, JavaScript
+- **Programming Languages:** C#, C++, Python
 - **Frameworks:** .NET Framework
-- **Database Management:** SQL
-- **Specialization:** Desktop Development
-- **Interests:** Artificial Intelligence, Web Development
+- **Database Management:** SQLite
+- **Specialization:** Desktop Development, Web development
+- **Other:** ASP.NET, Angular
+- **Interests:** Artificial Intelligence, Web Development, Desktop Development
 
 Contact Me
   LinkedIn:[https://www.linkedin.com/in/swasthik](https://www.linkedin.com/in/swasthik-d)
