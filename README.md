@@ -1,39 +1,69 @@
-# Swasthik D - Software Engineer
+# Swasthik D – Senior Software Engineer
+
+---
 
 ## About Me
-🚀 Passionate Software Engineer | Innovator in Desktop Application Development
-Since November 2021, I've been dedicated to driving technological advancements and crafting innovative software solutions. My expertise lies in desktop application development, where I specialize in debugging issues and delivering robust, efficient solutions.
 
-👨‍💻 Professional Highlights:
-Enhanced user experiences by swiftly resolving bugs and optimizing application performance.
+🚀 Senior Software Engineer specializing in desktop application development and vision-based systems, with hands-on experience in C++ and .NET technologies.
 
-Honored with the Shining Star Award in Q2 2023 for my impactful contributions to the development of OpenRoads SignCAD.
+Since November 2021, I’ve been building and improving software solutions with a strong focus on performance, stability, and user experience. Currently, I work on industrial vision inspection software, contributing to UI development and integration with backend processing engines.
 
-Demonstrated strong problem-solving skills and a keen eye for detail, ensuring high-quality deliverables.
+---
 
-Actively collaborated with cross-functional teams to design and implement features that meet user needs and business goals.
+## 👨‍💻 Professional Experience & Highlights
 
-🌟 Future Aspirations:
-Continuously exploring new technologies and methodologies to push boundaries and deliver top-notch software solutions. Always eager to learn, innovate, and contribute to the tech community.
+- Senior Software Engineer at JK SEL working on vision inspection software for industrial applications  
+- Developed and enhanced WPF-based UI components integrated with backend vision engines  
+- Contributed to workflows involving inspection systems, visualization, and data interaction  
+- Improved application performance and usability by debugging critical issues and optimizing workflows  
+- Collaborated with cross-functional teams to deliver scalable and reliable software solutions  
+- Received the **Shining Star Award (Q2 2023)** for contributions to *OpenRoads SignCAD*
 
-Keen on expanding my knowledge in areas such as machine learning, cloud computing, and software architecture.
+---
 
-Aspiring to lead projects that make a significant impact on user experiences and drive technological advancements.
+## 🧠 Technical Expertise
 
-Skills
-- **Programming Languages:** C#, C++, Python, Javascript
-- **Frameworks:** .NET Framework
-- **Database Management:** SQLite
-- **Specialization:** Desktop Development, Web development
-- **Other:** ASP.NET, WPF, Telerik Winforms
-- **Interests:** Artificial Intelligence, Web Development, Desktop Development
+**Languages:**  
+C#, C++, Python, JavaScript  
 
-Contact Me
-  LinkedIn:[https://www.linkedin.com/in/swasthik](https://www.linkedin.com/in/swasthik-d)
-  Email:[swasthikdml27@gmail.com](mailto:swasthikdml27@gmail.com)
+**Frameworks & Technologies:**  
+.NET / .NET Framework, WPF, ASP.NET  
 
-Feel free to reach out if you'd like to collaborate on a project or discuss anything related to software development!
-<!---
-dswasthik/dswasthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Libraries & Tools:**  
+Telerik WinForms, SQLite  
+
+**Domains:**  
+- Desktop Application Development  
+- Vision Inspection Systems  
+- UI Development & Backend Integration  
+- Computer Vision (Basic)  
+- Image Processing (Basic)
+
+---
+
+## 🌱 Current Focus
+
+- Strengthening fundamentals in Computer Vision & Image Processing  
+- Exploring Machine Vision systems and inspection workflows  
+- Learning Software Architecture and scalable system design  
+- Expanding knowledge in Cloud and AI-based solutions  
+
+---
+
+## 🎯 Career Goals
+
+- Grow into an expert in Vision Inspection & Machine Vision Systems  
+- Build high-performance applications for industrial automation  
+- Take ownership of end-to-end system design and architecture  
+- Contribute to impactful projects improving real-world manufacturing systems  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/swasthik  
+- Email: swasthikdml27@gmail.com  
+
+---
+
+⭐ Feel free to connect or collaborate on projects related to software development, vision systems, or innovative applications!
