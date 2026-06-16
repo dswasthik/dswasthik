@@ -1,69 +1,86 @@
-# Swasthik D – Senior Software Engineer
+# Hi, I'm Swasthik D 👋
+
+**Senior Software Engineer · .NET Developer | WPF & ASP.NET Core Web API**
+
+Software engineer with 4.5+ years of experience building enterprise applications in C# and the .NET ecosystem — across desktop development (WPF, MVVM) and backend development (ASP.NET Core, Web API, Entity Framework Core). Currently working on industrial vision inspection systems at JK Software Engineering Lab.
 
 ---
 
-## About Me
+## 🛠️ Tech Stack
 
-🚀 Senior Software Engineer specializing in desktop application development and vision-based systems, with hands-on experience in C++ and .NET technologies.
+**Languages**
+`C#` `SQL` `C++`
 
-Since November 2021, I’ve been building and improving software solutions with a strong focus on performance, stability, and user experience. Currently, I work on industrial vision inspection software, contributing to UI development and integration with backend processing engines.
+**Backend & APIs**
+`.NET` `.NET Core` `ASP.NET Core` `ASP.NET Core Web API` `REST API` `Entity Framework Core` `LINQ` `Dependency Injection` `JWT Authentication`
 
----
+**Desktop & UI**
+`WPF` `WinForms` `MVVM` `XAML` `Data Binding`
 
-## 👨‍💻 Professional Experience & Highlights
+**Databases**
+`SQL Server` `PostgreSQL`
 
-- Senior Software Engineer at JK SEL working on vision inspection software for industrial applications  
-- Developed and enhanced WPF-based UI components integrated with backend vision engines  
-- Contributed to workflows involving inspection systems, visualization, and data interaction  
-- Improved application performance and usability by debugging critical issues and optimizing workflows  
-- Collaborated with cross-functional teams to deliver scalable and reliable software solutions  
-- Received the **Shining Star Award (Q2 2023)** for contributions to *OpenRoads SignCAD*
+**Interop**
+`P/Invoke` `Native C++ Interoperability`
 
----
-
-## 🧠 Technical Expertise
-
-**Languages:**  
-C#, C++, Python, JavaScript  
-
-**Frameworks & Technologies:**  
-.NET / .NET Framework, WPF, ASP.NET  
-
-**Libraries & Tools:**  
-Telerik WinForms, SQLite  
-
-**Domains:**  
-- Desktop Application Development  
-- Vision Inspection Systems  
-- UI Development & Backend Integration  
-- Computer Vision (Basic)  
-- Image Processing (Basic)
+**Tools**
+`Visual Studio` `Git` `Azure DevOps`
 
 ---
 
-## 🌱 Current Focus
+## 💼 Experience
 
-- Strengthening fundamentals in Computer Vision & Image Processing  
-- Exploring Machine Vision systems and inspection workflows  
-- Learning Software Architecture and scalable system design  
-- Expanding knowledge in Cloud and AI-based solutions  
+**Senior Software Engineer — JK Software Engineering Lab** *(Mar 2026 – Present)*
+- Building WPF-based vision inspection applications integrated with a native C++ image-processing engine via P/Invoke interop
+- Working with ASP.NET Core RESTful APIs and Entity Framework Core (SQL Server / PostgreSQL) for inspection data, recipe management, and review workflows
 
----
-
-## 🎯 Career Goals
-
-- Grow into an expert in Vision Inspection & Machine Vision Systems  
-- Build high-performance applications for industrial automation  
-- Take ownership of end-to-end system design and architecture  
-- Contribute to impactful projects improving real-world manufacturing systems  
+**Associate Software Engineer → Senior — Bentley Systems** *(Nov 2021 – Feb 2026)*
+- Developed and maintained enterprise engineering desktop applications (OpenRoads Designer, OpenRail Designer, OpenRoads SignCAD) using C#, WPF, WinForms, and MVVM
+- Integrated desktop applications with backend services via the Bentley CONNECTION Client and ASP.NET Core Web APIs
+- Collaborated with managed C++ geometry and rendering modules through interop services
+- 🏆 **Shining Star Award — Q2 2023**
 
 ---
 
-## 📫 Contact
+## 🚀 Projects
 
-- LinkedIn: https://www.linkedin.com/in/swasthik  
-- Email: swasthikdml27@gmail.com  
+### PIE Viewer — Vision Inspection *(JK SEL)*
+WPF desktop application for industrial image inspection. Integrates a native C++ engine (Simple2D3D.DLL) via P/Invoke and ASP.NET Core APIs for recipe configuration, inspection history, and result persistence using EF Core + SQL Server.
+
+`C#` `WPF` `MVVM` `ASP.NET Core` `EF Core` `SQL Server` `P/Invoke` `C++ Interop`
 
 ---
 
-⭐ Feel free to connect or collaborate on projects related to software development, vision systems, or innovative applications!
+### Review System — Vision Inspection *(JK SEL)*
+Review and inspection-management workflow for industrial vision systems. ASP.NET Core Web API backend with EF Core and PostgreSQL for review management, audit tracking, and inspection history.
+
+`C#` `WPF` `MVVM` `ASP.NET Core Web API` `EF Core` `PostgreSQL`
+
+---
+
+### OpenRoads Designer & OpenRail Designer *(Bentley Systems)*
+Enterprise engineering applications for roadway and railway infrastructure design. WPF/WinForms UI with MVVM, integrated with Bentley's cloud services via the CONNECTION Client and ASP.NET Core APIs.
+
+`C#` `WPF` `WinForms` `MVVM` `ASP.NET Core` `C++ Interop` `Azure DevOps`
+
+---
+
+### OpenRoads SignCAD *(Bentley Systems)*
+Enterprise transportation and road-sign design software. Enhanced canvas rendering performance, geometry handling, and UI interactions. Integrated with project configuration and design metadata APIs.
+
+`C#` `WPF` `WinForms` `ASP.NET Core` `C++ Interop`
+
+---
+
+## 🎯 Currently Focused On
+
+- Deepening backend expertise with **ASP.NET Core Web API** — clean architecture, JWT auth, EF Core, middleware
+- Building full-stack .NET applications end-to-end
+- Software architecture and scalable system design
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-swasthik--d-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swasthik-d/)
+[![Email](https://img.shields.io/badge/Email-swasthikdml27@gmail.com-D14836?style=flat&logo=gmail)](mailto:swasthikdml27@gmail.com)
