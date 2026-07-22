@@ -1,5 +1,5 @@
 # Hi, I'm Swasthik D 👋
 
-**Senior Software Engineer · .NET Developer | WPF **
+Senior Software Engineer · .NET Developer | WPF 
 
 ---
