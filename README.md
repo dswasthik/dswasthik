@@ -1,27 +1,30 @@
 # Hi, I'm Swasthik D 👋
 
-**Senior Software Engineer · .NET Developer | WPF & ASP.NET Core Web API**
+**Senior Software Engineer · .NET Developer | WPF & MVVM | Learning ASP.NET Core Web API**
 
-Software engineer with 4.5+ years of experience building enterprise applications in C# and the .NET ecosystem — across desktop development (WPF, MVVM) and backend development (ASP.NET Core, Web API, Entity Framework Core). Currently working on industrial vision inspection systems at JK Software Engineering Lab.
+Software engineer with 4.5+ years of experience building enterprise applications in C# and the .NET ecosystem, specialising in WPF desktop development, MVVM architecture, and native C++ interop. Currently working on industrial vision inspection systems at JK Software Engineering Lab, and actively expanding into backend development with ASP.NET Core and Entity Framework Core.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-`C#` `SQL` `C++`
-
-**Backend & APIs**
-`.NET` `.NET Core` `ASP.NET Core` `ASP.NET Core Web API` `REST API` `Entity Framework Core` `LINQ` `Dependency Injection` `JWT Authentication`
+`C#` `C++` `SQL`
 
 **Desktop & UI**
-`WPF` `WinForms` `MVVM` `XAML` `Data Binding`
+`WPF` `WinForms` `MVVM` `XAML` `Data Binding` `Fluent.Ribbon`
+
+**Interop**
+`P/Invoke` `Native C++ Interoperability` `Struct Marshalling` `Multithreading`
+
+**Backend & APIs** *(actively building)*
+`.NET 8` `ASP.NET Core` `Web API` `REST` `Entity Framework Core` `LINQ` `Dependency Injection` `JWT Authentication`
 
 **Databases**
 `SQL Server` `PostgreSQL`
 
-**Interop**
-`P/Invoke` `Native C++ Interoperability`
+**Practices**
+`OOP` `SOLID` `Design Patterns` `Debugging` `Performance Optimization` `Agile/Scrum`
 
 **Tools**
 `Visual Studio` `Git` `Azure DevOps`
@@ -31,13 +34,14 @@ Software engineer with 4.5+ years of experience building enterprise applications
 ## 💼 Experience
 
 **Senior Software Engineer — JK Software Engineering Lab** *(Mar 2026 – Present)*
-- Building WPF-based vision inspection applications integrated with a native C++ image-processing engine via P/Invoke interop
-- Working with ASP.NET Core RESTful APIs and Entity Framework Core (SQL Server / PostgreSQL) for inspection data, recipe management, and review workflows
+- Building WPF desktop applications for industrial 2D/3D image processing and vision inspection using C#, .NET 8 and MVVM
+- Integrating the managed front end with a native C++ image-processing engine via P/Invoke interop
+- Implementing inspection workflows, visualization features and data persistence layers
 
-**Associate Software Engineer → Senior — Bentley Systems** *(Nov 2021 – Feb 2026)*
-- Developed and maintained enterprise engineering desktop applications (OpenRoads Designer, OpenRail Designer, OpenRoads SignCAD) using C#, WPF, WinForms, and MVVM
-- Integrated desktop applications with backend services via the Bentley CONNECTION Client and ASP.NET Core Web APIs
-- Collaborated with managed C++ geometry and rendering modules through interop services
+**Associate Software Engineer — Bentley Systems** *(Nov 2021 – Feb 2026)*
+- Developed and maintained enterprise engineering desktop applications (OpenRoads Designer, OpenRail Designer, OpenRoads SignCAD) using C#, WPF, WinForms and MVVM
+- Worked with managed C++ geometry and rendering modules through interop services
+- Focused on debugging, root-cause analysis, performance optimization and application stability
 - 🏆 **Shining Star Award — Q2 2023**
 
 ---
@@ -45,42 +49,35 @@ Software engineer with 4.5+ years of experience building enterprise applications
 ## 🚀 Projects
 
 ### PIE Viewer — Vision Inspection *(JK SEL)*
-WPF desktop application for industrial image inspection. Integrates a native C++ engine (Simple2D3D.DLL) via P/Invoke and ASP.NET Core APIs for recipe configuration, inspection history, and result persistence using EF Core + SQL Server.
+WPF desktop application for visualising and analysing 2D/3D volumetric scan data in industrial inspection workflows. Owns the complete managed front end over a native C++ rendering engine, including the P/Invoke interop layer, histogram/transfer-function editing, region-of-interest selection, measurement tools, multi-planar views and image export.
 
-`C#` `WPF` `MVVM` `ASP.NET Core` `EF Core` `SQL Server` `P/Invoke` `C++ Interop`
-
----
-
-### Review System — Vision Inspection *(JK SEL)*
-Review and inspection-management workflow for industrial vision systems. ASP.NET Core Web API backend with EF Core and PostgreSQL for review management, audit tracking, and inspection history.
-
-`C#` `WPF` `MVVM` `ASP.NET Core Web API` `EF Core` `PostgreSQL`
+`C#` `.NET 8` `WPF` `MVVM` `P/Invoke` `C++ Interop` `Image Processing`
 
 ---
 
 ### OpenRoads Designer & OpenRail Designer *(Bentley Systems)*
-Enterprise engineering applications for roadway and railway infrastructure design. WPF/WinForms UI with MVVM, integrated with Bentley's cloud services via the CONNECTION Client and ASP.NET Core APIs.
+Enterprise engineering applications for roadway, railway and infrastructure design. Contributed to UI development, defect resolution and reliability improvements across large-scale WPF/WinForms modules.
 
-`C#` `WPF` `WinForms` `MVVM` `ASP.NET Core` `C++ Interop` `Azure DevOps`
+`C#` `WPF` `WinForms` `MVVM` `C++ Interop` `Azure DevOps`
 
 ---
 
 ### OpenRoads SignCAD *(Bentley Systems)*
-Enterprise transportation and road-sign design software. Enhanced canvas rendering performance, geometry handling, and UI interactions. Integrated with project configuration and design metadata APIs.
+Enterprise transportation and road-sign design software. Enhanced canvas rendering performance, geometry handling and UI interactions.
 
-`C#` `WPF` `WinForms` `ASP.NET Core` `C++ Interop`
+`C#` `WPF` `WinForms` `.NET Framework` `C++ Interop`
 
 ---
 
 ## 🎯 Currently Focused On
 
-- Deepening backend expertise with **ASP.NET Core Web API** — clean architecture, JWT auth, EF Core, middleware
-- Building full-stack .NET applications end-to-end
-- Software architecture and scalable system design
+- Building backend expertise with **ASP.NET Core Web API** — clean architecture, dependency injection, middleware, JWT auth
+- **Entity Framework Core** with SQL Server — migrations, change tracking, repository and unit-of-work patterns
+- Full-stack .NET application development and scalable system design
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-swasthik--d-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swasthik-d/)
-[![Email](https://img.shields.io/badge/Email-swasthikdml27@gmail.com-D14836?style=flat&logo=gmail)](mailto:swasthikdml27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-swasthikd1027@gmail.com-D14836?style=flat&logo=gmail)](mailto:swasthikd1027@gmail.com)
